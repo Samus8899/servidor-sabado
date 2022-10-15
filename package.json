@@ -1,0 +1,24 @@
+{
+  "name": "servidor-sabado",
+  "version": "1.0.0",
+  "description": "api rest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samus8899/servidor-sabado.git"
+  },
+  "author": "SPV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samus8899/servidor-sabado/issues"
+  },
+  "homepage": "https://github.com/Samus8899/servidor-sabado#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
